@@ -29,7 +29,7 @@ The analysis includes:
 
 ## Tools
 
-```text
+text
 Python
 Pandas
 NumPy
@@ -37,7 +37,7 @@ Matplotlib
 Scikit-learn
 Jupyter Notebook
 
-##Data source
+## Data source
 Data repository for 'Understanding long-term energy use in off-grid solar
 home systems in sub-Saharan Africa'
 A pre-print of the publication that refers to this dataset is available at
